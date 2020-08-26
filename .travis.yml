@@ -8,7 +8,7 @@ matrix:
       dist: bionic
 
 before_install:
-  - chmod +x ./install_deps.sh && ./install_deps.sh
+  - chmod +x ./install_dependencies.sh && ./install_dependencies.sh
 
 script:
   - make -j$(nproc)
