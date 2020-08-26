@@ -6,8 +6,8 @@
 !data/
 !data/long_gong_pub.bib
 !include/
-!includes/cls
-!includes/macros
+!includes/cls/
+!includes/macros/
 !includes/cls/myRes.cls
 !includes/macros/customized_commands.tex
 !includes/macros/layout.tex
