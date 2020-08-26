@@ -1,9 +1,9 @@
 % Encoding: UTF-8
 
 @InProceedings{Gong_ForestStreamAccurateMeasurement_2017,
-  author    = {L. {Gong} and L. {Huang} and P. {Tune} and J. {Han} and C. {Chuah} and M. {Roughan} and J. {Xu}},
+  author    = {{\bf Long Gong} and Lanxi Huang and Paul Tune and Jinyoung Han and Chen-Nee Chuah aMatthew Roughan, Jun Xu},
   booktitle = {2017 26th International Conference on Computer Communication and Networks (ICCCN)},
-  title     = {ForestStream: Accurate Measurement of Cascades in Online Social Networks},
+  title     = {{ForestStream}: Accurate Measurement of Cascades in Online Social Networks},
   year      = {2017},
   pages     = {1-9},
 }
@@ -23,26 +23,26 @@
   keywords = {Algorithm design and analysis;Bandwidth;Indium phosphide;Substrates;Time complexity;Virtualization;Network virtualization;compatibility graph (CG);inapproximability.;location-constrained virtual network embedding (LC-VNE);maximum clique}
 }
 
-@article{GongTuneLiuEtAl2017,
- author = {Gong, Long and Tune, Paul and Liu, Liang and Yang, Sen and Xu, Jun (Jim)},
- title = {Queue-Proportional Sampling: A Better Approach to Crossbar Scheduling for Input-Queued Switches},
- journal = {Proc. ACM Meas. Anal. Comput. Syst.},
- issue_date = {June 2017},
- volume = {1},
- number = {1},
- month = jun,
- year = {2017},
- issn = {2476-1249},
- pages = {3:1--3:33},
- articleno = {3},
- numpages = {33},
- url = {http://doi.acm.org/10.1145/3084440},
- doi = {10.1145/3084440},
- acmid = {3084440},
- publisher = {ACM},
- address = {New York, NY, USA},
- keywords = {crossbar scheduling, input-queued switch, matching, queue-proportional sampling},
-} 
+@Article{GongTuneLiuEtAl2017,
+  author     = {{\bf Long Gong} and Tune, Paul and Liu, Liang and Yang, Sen and Xu, Jun (Jim)},
+  journal    = {Proceedings of the 2017 ACM SIGMETRICS/International Conference on Measurement and Modeling of Computer Systems},
+  title      = {Queue-Proportional Sampling: A Better Approach to Crossbar Scheduling for Input-Queued Switches},
+  year       = {2017},
+  issn       = {2476-1249},
+  month      = jun,
+  number     = {1},
+  pages      = {3:1--3:33},
+  volume     = {1},
+  acmid      = {3084440},
+  address    = {New York, NY, USA},
+  articleno  = {3},
+  doi        = {10.1145/3084440},
+  issue_date = {June 2017},
+  keywords   = {crossbar scheduling, input-queued switch, matching, queue-proportional sampling},
+  numpages   = {33},
+  publisher  = {ACM},
+  url        = {http://doi.acm.org/10.1145/3084440},
+}
 
 @InProceedings{GongWenZhuEtAl2013,
   author =    {{\bf Long Gong} and Yonggang Wen and Zuqing Zhu and Tony Lee},
@@ -99,19 +99,19 @@
 }
 
 @Article{GongZhouLuEtAl2012,
-  author =   {{\bf Long Gong} and Xiang Zhou and Wei Lu and Zuqing Zhu},
-  title =    {A Two-Population Based Evolutionary Approach for Optimizing Routing, Modulation and Spectrum Assignments (RMSA) in O-OFDM Networks},
-  journal =  {IEEE Communications Letters},
-  year =     {2012},
-  volume =   {16},
-  number =   {9},
-  pages =    {1520-1523},
-  month =    {Sept.},
+  author   = {{\bf Long Gong} and Xiang Zhou and Wei Lu and Zuqing Zhu},
+  journal  = {IEEE Communications Letters},
+  title    = {A Two-Population Based Evolutionary Approach for Optimizing Routing, Modulation and Spectrum Assignments ({RMSA}) in {O-OFDM} Networks},
+  year     = {2012},
+  issn     = {1089-7798},
+  month    = {Sept.},
+  number   = {9},
+  pages    = {1520-1523},
+  volume   = {16},
   abstract = {We propose a novel two-population genetic algorithm (MPGA) to optimize the routing, modulation and spectrum assignments (RMSA) in optical orthogonal frequency-division multiplexing (O-OFDM) networks. The proposed MPGA makes two populations evolve in parallel with different selection and mutation strategies, and incorporates a migration operation to exchange individuals between them. Performance evaluations show that the MPGA outperforms several existing algorithms.},
-  doi =      {10.1109/LCOMM.2012.070512.120740},
-  issn =     {1089-7798},
+  doi      = {10.1109/LCOMM.2012.070512.120740},
   keywords = {OFDM modulation;bandwidth allocation;channel allocation;genetic algorithms;optical modulation;telecommunication network routing;MPGA;O-OFDM network;RMSA;migration operation;multipopulation genetic algorithm;mutation strategy;optical orthogonal frequency division multiplexing;optimisation;population based evolutionary approach;routing modulation and spectrum assignment;Genetic algorithms;Genetics;Modulation;Optical fiber networks;Planning;Routing;Topology;Multi-population genetic algorithm (MPGA);modulation and spectrum assignment (RMSA);optical orthogonal frequency-division multiplexing (O-OFDM);routing},
-  url =      {http://www.zuqingzhu.info/pub_doc/2012/06235073.pdf}
+  url      = {http://www.zuqingzhu.info/pub_doc/2012/06235073.pdf},
 }
 
 @Article{GongZhu2014,
@@ -314,9 +314,9 @@
 }
 
 @InProceedings{Gong_QPSrCost_2020,
-  author    = {Gong, Long and Xu, Jun Jim and Liu, Liang and Maguluri, Siva Theja},
+  author    = {{\bf Long Gong} and Xu, Jun Jim and Liu, Liang and Maguluri, Siva Theja},
   booktitle = {Proceedings of the 13th EAI International Conference on Performance Evaluation Methodologies and Tools},
-  title     = {QPS-r: A Cost-Effective Iterative Switching Algorithm for Input-Queued Switches},
+  title     = {{QPS-r}: A Cost-Effective Iterative Switching Algorithm for Input-Queued Switches},
   year      = {2020},
   address   = {New York, NY, USA},
   pages     = {19–26},
@@ -351,17 +351,17 @@
 }
 
 @InProceedings{Gong_SERENADEParallelIterative_2020,
-  author    = {L. {Gong} and L. {Liu} and S. {Yang} and J. J. {Xu} and Y. {Xie} and X. {Wang}},
+  author    = {{\bf Long Gong} and Liang {Liu} and Sen {Yang} and Jun (Jim) {Xu} and Yi {Xie} and Xinbing {Wang}},
   booktitle = {2020 IEEE 21st International Conference on High Performance Switching and Routing (HPSR)},
-  title     = {SERENADE: A Parallel Iterative Algorithm for Crossbar Scheduling in Input-Queued Switches},
+  title     = {{SERENADE}: A Parallel Iterative Algorithm for Crossbar Scheduling in Input-Queued Switches},
   year      = {2020},
   pages     = {1-6},
 }
 
 @InProceedings{Gong_iDECIndexableDistanceEstimating_2020,
-  author    = {Long Gong and Huayi Wang and Mitsunori Ogihara and Jun Xu},
+  author    = {{\bf Long Gong} and Huayi Wang and Mitsunori Ogihara and Jun Xu},
   booktitle = {PVLDB},
-  title     = {iDEC:Indexable Distance Estimating Codes for Approximate NearestNeighbor Search},
+  title     = {{iDEC}: Indexable Distance Estimating Codes for Approximate NearestNeighbor Search},
   year      = {2020},
   number    = {9},
   volume    = {13},

@@ -1,0 +1,48 @@
+This is BibTeX, Version 0.99d (TeX Live 2019/W32TeX)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: long_full_2020.aux
+The style file: plain.bst
+Database file #1: ./data/long_gong_pub.bib
+Warning--can't use both volume and number fields in Gong_iDECIndexableDistanceEstimating_2020
+You've used 12 entries,
+            2118 wiz_defined-function locations,
+            590 strings with 7363 characters,
+and the built_in function-call counts, 5430 in all, are:
+= -- 504
+> -- 306
+< -- 7
++ -- 121
+- -- 108
+* -- 425
+:= -- 861
+add.period$ -- 37
+call.type$ -- 12
+change.case$ -- 90
+chr.to.int$ -- 0
+cite$ -- 13
+duplicate$ -- 205
+empty$ -- 396
+format.name$ -- 108
+if$ -- 1164
+int.to.chr$ -- 0
+int.to.str$ -- 12
+missing$ -- 12
+newline$ -- 63
+num.names$ -- 24
+pop$ -- 98
+preamble$ -- 1
+purify$ -- 78
+quote$ -- 0
+skip$ -- 158
+stack$ -- 0
+substring$ -- 307
+swap$ -- 72
+text.length$ -- 7
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 48
+warning$ -- 1
+while$ -- 41
+width$ -- 14
+write$ -- 137
+(There was 1 warning)
