@@ -13,3 +13,4 @@
 !includes/macros/layout.tex
 !includes/macros/packages.tex
 !README.md
+!install_dependencies.sh
