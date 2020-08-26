@@ -4,6 +4,7 @@
 !long_short_202*.tex
 !long_full_202*.tex
 !data/long_gong_pub.bib
+!include
 !includes/cls
 !includes/macros
 !includes/cls/myRes.cls
