@@ -4,8 +4,10 @@
 !long_short_202*.tex
 !long_full_202*.tex
 !data/long_gong_pub.bib
-!includes/macros/myRes.cls
-!includes/cls/customized_commands.tex
+!includes/cls
+!includes/macros
+!includes/cls/myRes.cls
+!includes/macros/customized_commands.tex
 !includes/macros/layout.tex
 !includes/macros/packages.tex
 !README.md
