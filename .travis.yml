@@ -1,0 +1,14 @@
+language: c++
+sudo: false
+matrix:
+  fast_finish: true
+  include:
+    - name: Ubuntu 18.04 MikTex
+      os: linux
+      dist: bionic
+
+before_install:
+  - chmod +x ./install_deps.sh && ./install_deps.sh
+
+script:
+  - make -j$(nproc)

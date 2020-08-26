@@ -14,3 +14,5 @@
 !includes/macros/packages.tex
 !README.md
 !install_dependencies.sh
+!Makefile
+!.travis.yml
