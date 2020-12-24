@@ -27,4 +27,4 @@ then
     install_miktex
 fi
 
-sudo apt-get install -y rubber
+# sudo apt-get install -y rubber
